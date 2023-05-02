@@ -1,5 +1,4 @@
 ## Hi and welcome! 👋 
-I'm passionate about working with data. It's exciting to see how insights can be extracted from complex datasets!
 
 #### My lastest project: 
 * [Doggos_101](https://doggos-101.streamlit.app/)
